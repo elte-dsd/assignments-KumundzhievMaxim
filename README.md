@@ -1,8 +1,8 @@
-Subject name: Streaming Data Analysis
+Subject name: <b>Streaming Data Analysis</b><br>
 
-Teacher: Dr. Chandresh Kumar Maurya
-Student: Maksim Kumudnzheiv
-Neptun code: V249C6
+Teacher: Dr. Chandresh Kumar Maurya <br>
+Student: Maksim Kumudnzheiv <br>
+Neptun code: V249C6 <br>
 
 
 This repository can provide you with:
